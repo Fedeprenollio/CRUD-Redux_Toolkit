@@ -26,8 +26,8 @@ export default function ListOfUsers({ handleClickToUpdate, isUpdating }) {
 			<Table>
 				<TableHead>
 					<TableRow>
-						<TableHeaderCell> id </TableHeaderCell>
-						<TableHeaderCell> Name </TableHeaderCell>
+						<TableHeaderCell> Id </TableHeaderCell>
+						<TableHeaderCell> Nombre </TableHeaderCell>
 						<TableHeaderCell> Email </TableHeaderCell>
 						<TableHeaderCell> Acciones </TableHeaderCell>
 					</TableRow>
